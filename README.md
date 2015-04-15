@@ -1,16 +1,8 @@
-[中文详细说明点这里](http://hexo.yuche.me/introducing-kael-customization/)
-
-↑↑↑↑↑↑↑↑↑↑↑↑↑↑
-
-## WARNING
-The code is full of shit.
-
 ## Feature
 
  - Multi Level Push Menu 
  - Archive/Tags/Categoies Instant Search
  - Pjax with Progress Bar
- - Inline Comment just like [Medium](http://medium.com/)
  - Scroll Spy
 
 ## Browser Support
@@ -21,20 +13,12 @@ The code is full of shit.
  - Opera 20 +
  - Safari 5 +
 
- 
-## Preview
-![kael-preview][1]
- 
 ## Installation
 
 ### Install
 
-$ git clone git@github.com:yuche/hexo-theme-kael.git themes/kael
+$ git clone git@github.com:github.com/catalystcoding/hexo-theme-kael
 
 ### Enable
 
 Modify theme setting in blog folder `_config.yml` to `kael`.
-
-
-
-  [1]: http://ww1.sinaimg.cn/large/650625begw1egigcsgddcg20z60iue81.gif
